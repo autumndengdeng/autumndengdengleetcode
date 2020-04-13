@@ -1,0 +1,10 @@
+//git command
+cd Documents 
+git clone (+the website from the git)
+save new file under sublime
+git status 
+git add filename
+git status
+git commit -m "added xx"
+git push
+
